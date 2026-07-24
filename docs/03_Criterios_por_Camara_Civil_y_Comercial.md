@@ -8,53 +8,76 @@
 
 ## 1. Importancia de los Criterios por Cámara
 
-En la práctica judicial de Córdoba, las diferentes Cámaras Civiles y Comerciales pueden tener matices o posiciones diferenciadas respecto a la aplicación de tasas de interés, especialmente desde la incorporación de la TIM en mayo de 2026.
+En la práctica judicial de Córdoba, las diferentes Cámaras Civiles y Comerciales pueden tener matices o posiciones diferenciadas en varios aspectos relacionados con la elaboración y control de planillas de cálculos judiciales.
 
-Conocer estas posiciones permite generar planillas más precisas y con menor riesgo de observaciones.
+Conocer estos puntos de variación permite generar planillas más precisas y con menor riesgo de observaciones.
 
-## 2. Situación Actual (julio 2026)
+## 2. Ítems donde pueden variar los criterios entre Cámaras
 
-La información pública disponible sobre criterios específicos por Cámara es todavía limitada, ya que la actualización de la planilla es reciente.
+A continuación se detalla la lista de aspectos (ítems) donde las Cámaras Civiles y Comerciales de Córdoba **pueden tener criterios diferenciados**:
 
-### 2.1 Cámara 9ª Civil y Comercial de Córdoba
+### 2.1 Tasa de interés aplicable
+- Elección entre TIM, tasa Banco de la Provincia de Córdoba, tasa de uso judicial u otra.
+- **Nivel de variación conocido**: Media-Alta.
+- **Ejemplo**: La Cámara 9ª ha rechazado la aplicación automática de TIM en algunos casos.
 
-**Posición conocida:**
-- Rechazó la aplicación automática de la **TIM** en un caso de ejecución de honorarios.
-- Prefirió mantener una "tasa de uso judicial" anterior.
-- Argumentó riesgo de generar situaciones de "usura judicial" y alterar el equilibrio entre las partes.
+### 2.2 Capitalización de intereses
+- Si se permite o no capitalizar intereses y bajo qué condiciones.
+- **Nivel de variación conocido**: Media.
+- El TSJ ha convalidado capitalización en algunos casos, pero no todas las Cámaras siguen el mismo lineamiento.
 
-**Fuente:** Fallo de la Cámara 9ª Civil y Comercial (2026).
+### 2.3 Aplicación del Factor
+- Cuándo y cómo se aplica el multiplicador incorporado en mayo 2026.
+- **Nivel de variación conocido**: Baja (aún poco jurisprudencia).
+- Es una herramienta relativamente nueva.
 
-### 2.2 Otras Cámaras
+### 2.4 Uso del Plus de Interés
+- Si corresponde agregar un adicional sobre la tasa base elegida.
+- **Nivel de variación conocido**: Media.
+- Depende del caso y de la posición de cada Cámara.
 
-- Hasta el momento no se han encontrado fallos públicos que definan posiciones claras y diferenciadas de otras Cámaras Civiles y Comerciales respecto a la TIM o la tasa del Banco de la Provincia de Córdoba.
+### 2.5 Determinación del dies a quo (fecha desde)
+- Desde qué momento exacto se computan los intereses.
+- **Nivel de variación conocido**: Media.
+- Algunas Cámaras son más estrictas con la acreditación de la fecha de mora.
 
-## 3. Regla General Propuesta
+### 2.6 Tratamiento de honorarios y JUS
+- Cómo se calculan, actualizan y expresan los honorarios profesionales.
+- **Nivel de variación conocido**: Media.
+- Influye fuertemente la reforma de la Ley 11.042.
 
-Mientras no exista información específica de la Cámara interviniente, se aplicará el siguiente criterio:
+### 2.7 Rubros específicos (daño moral, lucro cesante, daño emergente, etc.)
+- Criterios particulares para calcular intereses sobre cada tipo de rubro.
+- **Nivel de variación conocido**: Media-Baja.
 
-- **Tasa principal:** TIM (Tasa de Intereses Moratorios del BCRA).
-- **Alternativa:** Tasa del Banco de la Provincia de Córdoba (especialmente en rubros de honorarios).
-- Se evaluará el uso de **Plus de Interés** y **Factor** según las características del caso.
+### 2.8 Exigencias de motivación y detalle de la planilla
+- Cuánto detalle y fundamentación se exige al presentar la planilla.
+- **Nivel de variación conocido**: Media.
+- Algunas Cámaras son más exigentes en la motivación.
+
+### 2.9 Aplicación de índices (RIPTE, CER, etc.)
+- Si se acepta o no el uso de índices en determinados casos civiles.
+- **Nivel de variación conocido**: Baja.
+- Más común en fuero laboral, pero puede aparecer en civil.
+
+### 2.10 Criterios de "tasa de uso judicial"
+- Qué tasa se considera "de uso judicial" cuando la sentencia no indica una específica.
+- **Nivel de variación conocido**: Media.
+- Puede variar según la tradición de cada Cámara.
+
+## 3. Situación Actual de la Investigación (Julio 2026)
+
+- La única Cámara con posición pública clara y documentada es la **Cámara 9ª Civil y Comercial** (respecto a la TIM).
+- El resto de las Cámaras no tienen, hasta el momento, fallos públicos que definan criterios diferenciados de forma sistemática.
+- Las diferencias suelen aparecer de forma **casuística** más que en doctrinas consolidadas por Cámara.
 
 ## 4. Estructura para Futuras Actualizaciones
 
-Este documento está diseñado para ser actualizado fácilmente. Se recomienda agregar nuevas secciones cuando aparezcan:
-
-- Fallos de otras Cámaras que definan posición sobre tasas.
+Este documento está diseñado para ser actualizado periódicamente. Se recomienda agregar nueva información cuando aparezcan:
+- Fallos que definan posición de una Cámara en alguno de los ítems listados.
 - Acordadas o comunicados del TSJ que unifiquen criterios.
-- Práctica reiterada de alguna Cámara en particular.
-
-**Formato sugerido para agregar nuevas Cámaras:**
-
-```
-### Cámara Xª Civil y Comercial
-**Posición:** [Descripción]
-**Contexto:** [Tipo de casos]
-**Fuente:** [Referencia]
-**Fecha:** [Año]
-```
+- Práctica reiterada y conocida de alguna Cámara.
 
 ---
 
-**Documento de trabajo - Versión inicial**
+**Documento de trabajo - Versión actualizada**
